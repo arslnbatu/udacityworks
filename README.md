@@ -23,11 +23,11 @@ You will need to download Boston Airbnb Open Data and put in specific folders. Y
 To move the downloaded files to the specific folder, you can execute. </br>
 
 1. Listing </br>
-` Listing.csv udacityworks/Listing.csv `</br>
+` Listing.csv udacityworks/archive.zip/Listing.csv `</br>
 2. Calendar </br>
-`Calendar.csv udacityworks/calendar.csv `</br>
+`Calendar.csv udacityworks/archive.zip/calendar.csv `</br>
 3. Reviews </br>
-`Reviews.csv udacityworks/Reviews.csv `</br>
+`Reviews.csv udacityworks/archive.zip/Reviews.csv `</br>
 
 ## Project Motivation <a name="motivation"></a>
 
