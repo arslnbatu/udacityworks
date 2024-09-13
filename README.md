@@ -27,7 +27,7 @@ To move the downloaded files to the specific folder, you can execute. </br>
 ## Project Motivation <a name="motivation"></a>
 
 This is an Udacity Nanodegree project.I was interested in using Stackoverflow Developer Survey Data to better understand:</br>
-1. What are the highest price in Boston? </br>
+1. Which columns are influential? </br>
 2. Which street is most expensive? </br>
 3. Relationship between Review of AIRBNB Data & Host info </br>
 
