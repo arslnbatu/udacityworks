@@ -33,7 +33,7 @@ This is an Udacity Nanodegree project.I was interested in using Stackoverflow De
 
 ## File Description <a name="files"></a>
 
-**airbnb-model.ipynb.ipynb**: Notebook containing the data analysis. </br>
+**airbnb-boston-analysis.ipynb**: Notebook containing the data analysis. </br>
 **archive.zip**: Boston Airbnb Open Data into 3 files which are listing, reviews and calendar </br>
 
 ## Results <a name="results"></a>
